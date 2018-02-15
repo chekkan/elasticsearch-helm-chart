@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  elasticsearch:
+    - created: 2018-02-15T14:14:20.499814565-06:00
+      description: Deploy a basic Elasticsearch Cluster
+      digest: 99c76e403d752c84ead610644d4b1c2f2b453a74b921f422b9dcb8a7c8b559cd
+      home: https://k8s.io/helm
+      name: elasticsearch
+      sources:
+        - https://github.com/chekkan/elasticsearch-helm-chart
+      urls:
+      - https://github.com/chekkan/elasticsearch-helm-chart/releases/download/v0.1.0/elasticsearch-0.1.0.tgz
+      version: 0.1.0
+generated: 2018-02-15T14:14:20.499029981-06:00
